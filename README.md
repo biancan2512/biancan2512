@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @biancan2512
-- 👀 I’m interested in Java
 - 🌱 I’m currently learning Engineering.
-- 💞️ I’m looking to collaborate on Pinterest
 - 📫 How to reach me biancan2601@gmail.com
 
 <!---
